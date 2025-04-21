@@ -28406,7 +28406,7 @@ DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,mh4u.org
 DOMAIN-SUFFIX,michaelmarketl.com
 DOMAIN-SUFFIX,microsoft-falcon.io
-DOMAIN-SUFFIX,microsoft.com
+# DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,microvpn.com
